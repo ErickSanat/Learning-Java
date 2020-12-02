@@ -1,1 +1,2 @@
-# exercises written in Java
+
+# Exercices written in Java
